@@ -1,0 +1,16 @@
+{
+    "name": "macmillan/image-manipulation-library",
+    "description": "A simple image manipulation library for tasks such as cropping and resizing.",
+    "authors": [
+        {
+            "name": "Martin Macmillan",
+            "email": "martincmacmillan@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.6.*"
+    }
+}
